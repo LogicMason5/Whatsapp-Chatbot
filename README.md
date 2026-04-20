@@ -91,11 +91,4 @@ This chatbot is made possible by the incredible work of the following projects:
 * [ioredis](https://github.com/luin/ioredis)
 * [openai](https://github.com/openai/openai-node)
 
-**Join the Conversation:**
-
-More features to be added to the chatbot, stay in the loop:
-
-* [My Youtube Channel](https://www.youtube.com/channel/UChZk6jLmTKn2BINb9o51otQ)
-* [Say Hi On LinkedIn](https://www.linkedin.com/in/tafadzwa-demba/)
-
 **Let's build a smarter and more engaging WhatsApp experience!** 
