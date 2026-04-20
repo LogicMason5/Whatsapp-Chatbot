@@ -7,10 +7,10 @@
 For a detailed, step-by-step guide on building this chatbot, check out:
 
 ### NestJS WhatsApp Chatbot with GPT-4o
-[<img width="960" alt="WhatsApp AI Chatbot" src="https://github.com/user-attachments/assets/ed05d93e-613a-41db-8514-b12d722fe246">](https://www.youtube.com/watch?v=Nn9JJ8IdxM8&list=PLX8Kj-tc4dHallx-LJ-5uu894S7f52xIC&index=1)
+[<img width="960" alt="WhatsApp AI Chatbot" src="https://github.com/user-attachments/assets/ed05d93e-613a-41db-8514-b12d722fe246">]
 
 ### Text-To-Image generation with Stable Diffusion model
-[<img width="960" alt="WhatsApp AI Chatbot" src="https://github.com/user-attachments/assets/7c164df6-40df-4f15-84a3-32e04f196412">](https://www.youtube.com/watch?v=gxmlZgVjnv8&list=PLX8Kj-tc4dHallx-LJ-5uu894S7f52xIC&index=4)
+[<img width="960" alt="WhatsApp AI Chatbot" src="https://github.com/user-attachments/assets/7c164df6-40df-4f15-84a3-32e04f196412">]
 
 **Key Features:**
 
