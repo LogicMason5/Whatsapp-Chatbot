@@ -12,7 +12,10 @@ describe('AudioService', () => {
     service = module.get<AudioService>(AudioService);
   });
 
-  it('should be defined', () => {
-    expect(service).toBeDefined();
+  describe('service initialization', () => {
+    it('should be defined', () => {
+      // Assert
+      expect(service).toBeDefined();
+    });
   });
 });
